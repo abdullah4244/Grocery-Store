@@ -1,0 +1,20 @@
+﻿Admin Dashboard
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\
+Admin_Dashboard
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\App.xaml
+52088529196
+
+19-1752502069
+1992117161593
+MainWindow.xaml;Views\AdmindashboardView.xaml;Views\ClientdashboardView.xaml;Views\ClientLoginView.xaml;Views\ProductsListView.xaml;
+
+True
+

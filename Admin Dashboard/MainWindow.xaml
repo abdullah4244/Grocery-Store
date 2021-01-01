@@ -1,0 +1,16 @@
+﻿<Window x:Class="Admin_Dashboard.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Admin_Dashboard"
+        xmlns:myview="clr-namespace:Admin_Dashboard.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="900" Background="#FF171720">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Content="Admin" FontSize="30" Padding="30,10,30,10" Background="#5cb85c" Foreground="White" FontFamily="Bahnschrift SemiBold" Margin="0,0,0,60"  Click="AdminButton_Click"></Button>
+            <Button Content="Client" FontSize="30" Padding="30,10,30,10" Background="#5cb85c" Foreground="White" FontFamily="Bahnschrift SemiBold"  Click="ClientButton_Click"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

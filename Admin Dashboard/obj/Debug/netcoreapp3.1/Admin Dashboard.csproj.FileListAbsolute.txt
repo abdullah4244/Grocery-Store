@@ -1,0 +1,45 @@
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.exe
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.deps.json
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.runtimeconfig.json
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.runtimeconfig.dev.json
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Admin Dashboard.pdb
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.csprojAssemblyReference.cache
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\AdmindashboardView.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard_MarkupCompile.cache
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard_MarkupCompile.lref
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\AdmindashboardView.baml
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.g.resources
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.AssemblyInfoInputs.cache
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.AssemblyInfo.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.pdb
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.genruntimeconfig.cache
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Admin Dashboard.csproj.CopyComplete
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ProductsListView.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ProductsListView.baml
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ClientLoginView.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ClientLoginView.baml
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ClientdashboardView.g.cs
+C:\Users\Abdullah\source\repos\Admin Dashboard\Admin Dashboard\obj\Debug\netcoreapp3.1\Views\ClientdashboardView.baml

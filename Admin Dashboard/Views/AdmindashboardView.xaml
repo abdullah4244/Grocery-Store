@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="Admin_Dashboard.Views.AdmindashboardView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Admin_Dashboard.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="900">
+    <Grid >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.2*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" FontSize="50" Content="Admin DashBoard" Grid.ColumnSpan="2" HorizontalAlignment="Center" FontFamily="Bahnschrift SemiBold" RenderTransformOrigin="0.5,0.5" Foreground="White">
+
+        </Label>
+
+        <StackPanel  Grid.Row="1" Grid.Column="0" Background="#fff" Margin="10,10,0,0" >
+
+            <Label Content="Add New Product" FontFamily="Bahnschrift SemiBold" FontSize="30"></Label>
+            <WrapPanel>
+                <Label Content="Product Id:" FontSize="20" Margin="10,10,50,10" FontFamily="Bahnschrift SemiBold"></Label>
+                <TextBox Text="{Binding ID,Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}" Name="txtid" Width="200" Height="30" FontSize="15" FontWeight="Medium" BorderBrush="#333"  Background="White"  />
+            </WrapPanel>
+
+            <WrapPanel>
+                <Label Content="Product Name:" FontSize="20" Margin="10,10,15,10" FontFamily="Bahnschrift SemiBold"></Label>
+                <TextBox  Text="{Binding Name,Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}" Name="txtName" Width="200" Height="30" FontSize="15" FontWeight="Medium" BorderBrush="#333" Background="White"  />
+            </WrapPanel>
+
+            <WrapPanel>
+                <Label Content="Product Price:" FontSize="20" Margin="10,10,22,10" FontFamily="Bahnschrift SemiBold"></Label>
+                <TextBox Text="{Binding Price,Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}" Name="txtPrice" Width="200" Height="30" FontSize="15" FontWeight="Medium" BorderBrush="#333" Background="White"  />
+            </WrapPanel>
+
+            <WrapPanel>
+                <Label Content="Product Quant:" FontSize="20" Margin="10,10,16,30" FontFamily="Bahnschrift SemiBold"></Label>
+                <TextBox Text="{Binding Quantity,Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}" Name="txtQuant" Width="200" Height="30" FontSize="15" FontWeight="Medium" BorderBrush="#333" Background="White"  />
+            </WrapPanel>
+            <Button Command="{Binding AddCommand}" Content="Add Product" Width="100" HorizontalAlignment="Center" Padding="5" Background="#fff" FontSize="15" FontWeight="DemiBold"></Button>
+            <Button Content="Products" Width="100" Margin="0,40,0,10" HorizontalAlignment="Right" Padding="5" Background="#fff" FontSize="15" FontWeight="DemiBold" Click="Button_Click_1"></Button>
+            <Button Content="Logout" Width="100" HorizontalAlignment="Right" Padding="5" Background="#fff" FontSize="15" FontWeight="DemiBold" Click="Button_Click"></Button>
+        </StackPanel>
+
+        <StackPanel  Grid.Row="1" Grid.Column="1" Background="#fff" Margin="0,10,10,0" >
+            <Label Content="DELETE Product" FontFamily="Bahnschrift SemiBold" FontSize="30" HorizontalAlignment="Center" Margin="0,0,10,0"></Label>
+            <Label Content="Enter Product ID to Delete" FontFamily="Bahnschrift SemiBold" FontSize="20" HorizontalAlignment="Right" Margin="0,30,30,0"></Label>
+
+            <WrapPanel HorizontalAlignment="Center" Margin="0,20,0,0">
+                <Label Content="ID:" FontSize="20"  FontFamily="Bahnschrift SemiBold" Margin="0,0,20,0"></Label>
+                <TextBox  Text="{Binding IDdelete,Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}" Name="txtDelid" Width="200" Height="30" FontSize="15" FontWeight="Medium" BorderBrush="#333" Background="White"  />
+            </WrapPanel>
+
+            <Button Command="{Binding DeleteCommand}" Content="DEL Product" Width="100" HorizontalAlignment="Center" Margin="0,20,0,0" Padding="5" Background="#fff" FontSize="15" FontWeight="DemiBold"></Button>
+        </StackPanel>
+    </Grid>
+</UserControl>
